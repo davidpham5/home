@@ -1,0 +1,13 @@
+.navbar {
+	background-color: #fff;
+}
+.branding {
+	text-indent: -999px;
+    display: block;
+    height: 50px;
+    width: 50px;
+	background-image: url('../images/dp-logo.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+}
