@@ -4,6 +4,7 @@
 	background: #eee;
 	text-align: center;
 	float: left;
+	margin-bottom: 30px;
 }
 .card-body {
 	text-align: left;
@@ -11,6 +12,8 @@
 	padding: 15px;
 }
 .card-image {
+	max-height: 500px;
+	height: auto;
 	width: 100%;
 }
 .view-live {
