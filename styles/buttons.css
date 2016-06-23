@@ -1,0 +1,19 @@
+.btn {
+	height: 35px;
+	padding: 5px 10px;
+	background-color: #eee;
+	border-radius: 4px;
+	box-shadow: 1px 1px 1px #eee;
+}
+
+.btn.btn-primary {
+	background-color:  #00e18a;
+	color: #fff;
+}
+.btn.btn-lg {
+	padding: 10px 20px;
+}
+.call-to-action .button-container {
+	width: 20%;
+	margin: 0 auto;
+}

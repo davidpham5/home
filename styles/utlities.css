@@ -1,14 +1,20 @@
 ul,ol {
     padding: 0;
 }
-.list-inline {
+.list-inline,
+.list-unstyled {
 	list-style: none;
 }
 .list-inline li {
 	padding: 0 5px;
     display: inline-block;
 }
-
+.tech-list {
+  margin-top: 10px;
+}
+.outline-list {
+  margin-left: 10px;
+}
 .hr-full {
     width: 100%;
     background-color: #eee;
@@ -31,4 +37,8 @@ ul,ol {
   overflow: hidden;
   clip: rect(0,0,0,0);
   border: 0;
+}
+
+.strong {
+  font-weight: 800;
 }
