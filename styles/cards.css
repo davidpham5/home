@@ -16,6 +16,9 @@
 	height: auto;
 	width: 100%;
 }
+.card-image.full {
+	max-height: 1000px;
+}
 .view-live {
 	margin-left: 10px;
 }
