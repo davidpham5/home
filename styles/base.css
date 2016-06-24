@@ -24,6 +24,9 @@ html, body {
     min-height: 100%;
     position: relative;
 }
+.main.wrap {
+    padding: 0 30px;
+}
 .footer {
     background-color: #f6f6f6;
     color: #aaa;
