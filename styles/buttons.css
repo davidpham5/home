@@ -17,3 +17,9 @@
 	width: 20%;
 	margin: 0 auto;
 }
+@media (max-width: 414px) {
+	.call-to-action .button-container {
+		width: 100%;
+		text-align: center;
+	}
+}
