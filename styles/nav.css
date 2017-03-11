@@ -11,3 +11,10 @@
     background-position: center center;
     background-size: contain;
 }
+.navbar {
+	.flex-end {
+		display: flex;
+		flex-direction: row;
+		justify-content: flex-end;
+	}
+}
